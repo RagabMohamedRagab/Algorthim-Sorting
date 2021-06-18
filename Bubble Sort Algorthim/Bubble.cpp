@@ -51,3 +51,21 @@ void Print(int Arr[],int row){
 	  cout<<endl;	
 	}	
 }
+/***********Run***********/
+/*
+Enter Size Of Arr:5
+Before Sort
+Item-1:30
+Item-2:40
+Item-3:20
+Item-4:10
+Item-5:50
+After Sort:
+item-1:50
+item-2:40
+item-3:30
+item-4:20
+item-5:10
+Press any key to continue . . .
+*/
+/*******************************/
