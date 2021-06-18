@@ -33,7 +33,28 @@ void Print(int Arr2[], int row) {
 	}
 }
 
+/*
 
+plz Enter Size Of Arr:5
+Item-1:20
+Item-2:40
+Item-3:10
+Item-4:30
+Item-5:50
+/*****After Sorting
+item-1:10
+item-2:20
+item-3:30
+item-4:40
+item-5:50
+Press any key to continue . . .
+
+
+
+
+
+
+*/
 
 
 
